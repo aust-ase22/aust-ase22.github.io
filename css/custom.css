@@ -5,7 +5,9 @@
 }
 
 .jumbotron {
-  background-image: url('../img/h1.png');
+  /*background-image: url('../img/h1.png');*/
+  background-image: url('../img/aa-downtown_v4.png');
+
   background-size: cover;
   /*background-opacity: 0.5;*/
 }
