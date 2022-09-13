@@ -36,3 +36,20 @@
     text-shadow: 0.7px 0.7px #000000;
 
 }
+
+#program_list_item {
+  margin-top: 10px;
+}
+
+#program_list_item > #timeslot{
+  font-weight: bold; 
+  font-size: 13pt;
+  color: #7E7E7E;
+}
+
+#program_list_item > #title{
+  font-weight: bold; 
+}
+#program_list_item > #author{
+  font-style: italic; 
+}
